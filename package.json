@@ -1,0 +1,13 @@
+{
+  "name": "cicim-guzellik-salonu-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Cicim Güzellik Salonu için Synqrix satış demosu",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "lint": "node scripts/lint.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "build": "node scripts/build.mjs"
+  }
+}
